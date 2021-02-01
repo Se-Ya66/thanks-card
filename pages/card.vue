@@ -6,15 +6,13 @@
                         <div>
                             <h2 class="page-title">Thanks Card</h2>
                             <p class="explan">ダウンロードボタンよりサンクスカードをお受け取りください。<br>ダウンロードが開始されない場合はカードを長押しして保存してください。</p>
-                            
                         </div>
-                    
                         <div>
                             <div class="img-wrapper">
                                 <img src="../static/thankscard.png" class="thankscard">
                             </div>
                             <div class="button pat1">
-                                <a href="https://thanks-card.netlify.app/thankscard.png" class="link" download="thankscard.png">
+                                <a href="https://thankscard-provider.netlify.app/thankscard.png" class="link" download="thankscard.png">
                                     <span class="link">
                                         Download
                                     </span>

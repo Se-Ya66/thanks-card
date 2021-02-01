@@ -12,7 +12,7 @@
             <p class="message3">QRコードより新郎新婦からの<br>サンクスカードをお受け取り下さい。</p>
         </div>
         <div class="name">
-            <div class="names">Yuya & Yuri</div>
+            <div class="names">Haruki & Yuko</div>
         </div>
     </div>
 </template>
